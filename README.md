@@ -210,3 +210,7 @@ $  python3 manage.py createsuperuser
 - [x] Student View Result
 - [x] Change all links to be dynamic
 - [x] Code Restructure - Very Important
+
+
+<!--  Get-ExecutionPolicy -->
+<!--  Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass -->
